@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at TETG
+I'm currently studying at TETG.
 
 
 ## 🌐 Socials:
