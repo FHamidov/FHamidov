@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at TETG.
+I'm currently studying at TETG
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/froxy.009) 
